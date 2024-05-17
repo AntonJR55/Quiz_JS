@@ -9,7 +9,10 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
+    "@eslint/js": "^9.2.0",
     "browser-sync": "^3.0.2",
+    "eslint": "^9.2.0",
+    "globals": "^15.2.0",
     "gulp": "^5.0.0",
     "gulp-autoprefixer": "^8.0.0",
     "gulp-clean-css": "^4.3.0",
